@@ -237,8 +237,7 @@ a:focus {
 #home {
     padding: 0;
     color: #fff;
-    background-image: url(https://rl01.oss-cn-beijing.aliyuncs.com/1197px-Bridge_of_Remembrance_during_the_sunset%2C_Christchurch%2C_New_Zealand.jpg?Expires=1597997864&OSSAccessKeyId=TMP.3KjayXwtyHquTKMmbzPvJyCp8djo27qhjQiu137wnBKbJvMRCauNpeV5zVHvHzGx1aVFygQK8LSP8jmeYbie4sU8GR4EGY&Signature=%2BHyhpVr6z%2FTNLI1uEv5Y71JC6yk%3D
-);
+    background-image: url(https://rl01.oss-cn-beijing.aliyuncs.com/1197px-Bridge_of_Remembrance_during_the_sunset%2C_Christchurch%2C_New_Zealand.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
